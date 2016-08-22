@@ -1,0 +1,6 @@
+1. git clone https://github.com/guoxinfei/hello-world.git
+2. Under the git folder run git status to check any new file
+3. git add file name
+4. git commit -m "message"
+5. git remote set-url origin https://guoxinfei:password@github.com/guoxinfei/hello-world.git
+5. git push
